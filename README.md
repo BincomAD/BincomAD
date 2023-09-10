@@ -36,7 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" title="npm" width="40" height="40"/>&nbsp;
 
 
 ### My stat
