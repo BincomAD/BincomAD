@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Aleksandr </h1>
     <h3>Web Developer from Moscow</h3>
-    <h3>VK Student</h3>
 </div>
 
 <div id="socials" align="center">
@@ -17,6 +16,7 @@
 </div>
 
 ### About me
+- 👨‍🎓 VK Student
 - 🌱 I’m currently learning **Go and JS**
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Npw1J-wMaUD587vCmAK0GVv9PN9JFblV/view?usp=sharing)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/aleksandr-dmitriev-42b142269/), [email](mailto:BincomAD@gmail.com)
