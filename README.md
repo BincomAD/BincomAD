@@ -27,6 +27,7 @@
 <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
@@ -36,7 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" title="npm" width="40" height="40"/>&nbsp;
 
 
 ### My stat
