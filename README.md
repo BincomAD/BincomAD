@@ -19,6 +19,7 @@
 - 👨‍🎓 VK and BMSTU Student
 - 📄 Work at a rental startup
 - 🌱 I’m currently learning **Go and JS**
+- 💾 My [leetcode](https://leetcode.com/BincomAD/)
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Npw1J-wMaUD587vCmAK0GVv9PN9JFblV/view?usp=sharing)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/aleksandr-dmitriev-42b142269/), [email](mailto:BincomAD@gmail.com)
 - 🌍 I speak English, Russian
