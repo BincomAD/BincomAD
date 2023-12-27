@@ -1,4 +1,4 @@
-![image](https://github.com/BincomAD/BincomAD/assets/100017314/8aecff29-4d75-4558-8640-a3604748d397)<div id="header" align="center">
+<div id="header" align="center">
     <h1>Hi there, I'm  Aleksandr </h1>
     <h3>Web Developer from Moscow</h3>
 </div>
