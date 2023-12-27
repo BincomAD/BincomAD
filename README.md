@@ -40,6 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="k8s" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" title="solidity" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/349356/ethereum.svg" title="ethereum" width="40" height="40"/>&nbsp;
 
 
 ### My stat
