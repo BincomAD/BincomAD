@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/BincomAD/BincomAD/assets/100017314/8aecff29-4d75-4558-8640-a3604748d397)<div id="header" align="center">
     <h1>Hi there, I'm  Aleksandr </h1>
     <h3>Web Developer from Moscow</h3>
 </div>
@@ -40,8 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="k8s" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" title="solidity" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/349356/ethereum.svg" title="ethereum" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/374088/solidity.svg" title="solidity" width="40" height="40"/>&nbsp;
+<img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg?v=029" title="ethereum" width="40" height="40"/>&nbsp;
 
 
 ### My stat
